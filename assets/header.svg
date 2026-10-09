@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">EDY — Build something worth opening.</title>
+<desc id="desc">Dark terminal inspired banner with mint green typography and a geometric orbital diagram.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#203039" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="440" rx="18" fill="#0c141b"/>
+<rect width="1280" height="440" rx="18" fill="url(#grid)" opacity=".38"/>
+<path d="M48 68H1232" stroke="#2a3942"/>
+<circle cx="55" cy="36" r="5" fill="#ff746c"/><circle cx="74" cy="36" r="5" fill="#e5c36b"/><circle cx="93" cy="36" r="5" fill="#74dfb3"/>
+<g font-family="Consolas,Menlo,monospace"><text x="116" y="42" fill="#8eaaa9" font-size="14">edy / creative-workbench</text>
+<text x="56" y="114" fill="#7cf5c8" font-size="14" letter-spacing="3">DUI-F // PERSONAL LAB</text>
+<text x="49" y="237" fill="#eff8f5" font-size="116" font-weight="700" letter-spacing="-7">EDY<tspan fill="#7cf5c8">_</tspan></text>
+<text x="56" y="292" fill="#e0eeeb" font-size="27">Build something</text><text x="56" y="330" fill="#e0eeeb" font-size="27">worth opening.</text>
+<text x="56" y="398" fill="#8eaaa9" font-size="14">AI TOOLS / STORIES / WEB EXPERIMENTS</text>
+<text x="1000" y="398" fill="#7cf5c8" font-size="13">[ KEEP BUILDING ]</text></g>
+<g fill="none" stroke="#7cf5c8"><circle cx="985" cy="226" r="123" opacity=".16"/><circle cx="985" cy="226" r="87" opacity=".32"/><ellipse cx="985" cy="226" rx="170" ry="53" transform="rotate(-32 985 226)" opacity=".7"/><ellipse cx="985" cy="226" rx="170" ry="53" transform="rotate(32 985 226)" opacity=".35"/><path d="M985 87V365M805 226H1165" stroke-dasharray="4 8" opacity=".22"/><path d="M959 203L937 226L959 249M1011 203L1033 226L1011 249M993 201L977 251" stroke-width="4"/></g>
+<circle cx="1130" cy="137" r="6" fill="#7cf5c8"/><circle cx="856" cy="307" r="4" fill="#7cf5c8"/>
+</svg>
