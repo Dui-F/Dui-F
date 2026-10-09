@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/header-v2.gif" width="100%" alt="EDY Creative Intelligence Lab — animated holographic sphere, orbital scan and flowing light." />
+  <img src="./assets/header-v3.gif" width="100%" alt="Handwritten EDY on warm paper, with a mint green robot waving, blinking and bouncing among doodle stars." />
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" width="100%" alt="Build something worth opening — AI tools, creative workflows and web experiments." />
+  <img src="./assets/typing-v3.svg" width="100%" alt="Build something worth opening — AI tools, creative workflows and web experiments." />
 </p>
 
 <p align="center">
