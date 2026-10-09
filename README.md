@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="EDY — Build something worth opening." />
+  <img src="./assets/header-v2.gif" width="100%" alt="EDY Creative Intelligence Lab — animated holographic sphere, orbital scan and flowing light." />
 </p>
 
 <p align="center">
